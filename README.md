@@ -15,7 +15,7 @@ Projeto desenvolvido para solidificar meus conhecimentos na Context API utilizan
 
 ## 🔗 Visit
 
-To visit the 2023 FIFA Women's World Cup just <a href="#">click here</a>!
+Para conferir o site <a href="https://landing-page-temas.vercel.app/">clique aqui</a>!
 
 ## 📱 Demo
 
